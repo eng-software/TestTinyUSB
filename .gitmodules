@@ -1,0 +1,3 @@
+[submodule "CM7/tinyusb"]
+	path = CM7/tinyusb
+	url = https://github.com/hathach/tinyusb.git
